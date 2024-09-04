@@ -23,7 +23,7 @@ We'll need the following tools to get started:
 
 We will use  [`create-expo-app`](https://docs.expo.dev/more/glossary-of-terms/#create-expo-app)  to initialize a new Expo app. It is a command line tool that allows to create a new React Native project with the  `expo`  package installed.
 
-It will create a new project directory and install all the necessary dependencies to get the project up and running locally. Run the following command in your terminal:
+It will create a new project directory and install all the necessary dependencies to get the project up and running locally. Run the following command in your terminal: :)
 
 
 **Create a project named StickerSmash**
